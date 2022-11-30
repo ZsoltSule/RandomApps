@@ -1,0 +1,15 @@
+D:\MyApps\GuessingGame\GuessingGame\bin\Debug\net6.0\GuessingGame.exe
+D:\MyApps\GuessingGame\GuessingGame\bin\Debug\net6.0\GuessingGame.deps.json
+D:\MyApps\GuessingGame\GuessingGame\bin\Debug\net6.0\GuessingGame.runtimeconfig.json
+D:\MyApps\GuessingGame\GuessingGame\bin\Debug\net6.0\GuessingGame.dll
+D:\MyApps\GuessingGame\GuessingGame\bin\Debug\net6.0\GuessingGame.pdb
+D:\MyApps\GuessingGame\GuessingGame\obj\Debug\net6.0\GuessingGame.csproj.AssemblyReference.cache
+D:\MyApps\GuessingGame\GuessingGame\obj\Debug\net6.0\GuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyApps\GuessingGame\GuessingGame\obj\Debug\net6.0\GuessingGame.AssemblyInfoInputs.cache
+D:\MyApps\GuessingGame\GuessingGame\obj\Debug\net6.0\GuessingGame.AssemblyInfo.cs
+D:\MyApps\GuessingGame\GuessingGame\obj\Debug\net6.0\GuessingGame.csproj.CoreCompileInputs.cache
+D:\MyApps\GuessingGame\GuessingGame\obj\Debug\net6.0\GuessingGame.dll
+D:\MyApps\GuessingGame\GuessingGame\obj\Debug\net6.0\refint\GuessingGame.dll
+D:\MyApps\GuessingGame\GuessingGame\obj\Debug\net6.0\GuessingGame.pdb
+D:\MyApps\GuessingGame\GuessingGame\obj\Debug\net6.0\GuessingGame.genruntimeconfig.cache
+D:\MyApps\GuessingGame\GuessingGame\obj\Debug\net6.0\ref\GuessingGame.dll
