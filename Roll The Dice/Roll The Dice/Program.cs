@@ -24,9 +24,10 @@ namespace MyApp
                 Console.WriteLine($"You rolled {rollFirst} and {rollSecond}\n");
                 attempts++;
             }
-
-            Console.WriteLine($"It took you {attempts} attempts to roll two of a kind");
+            
             Console.WriteLine($"You rolled {rollFirst} and {rollSecond}");
+            Console.WriteLine($"It took you {attempts} attempts to roll two of a kind");
+            
         }
     }
 }
