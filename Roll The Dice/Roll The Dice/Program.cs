@@ -25,7 +25,6 @@ namespace MyApp
                 attempts++;
             }
             
-            Console.WriteLine($"You rolled {rollFirst} and {rollSecond}");
             Console.WriteLine($"It took you {attempts} attempts to roll two of a kind");
             
         }
