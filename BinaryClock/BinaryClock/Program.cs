@@ -26,7 +26,7 @@ namespace BinaryClock
             int ora2 = Convert.ToInt32(Convert.ToString(ora1, 2));
             int min2 = Convert.ToInt32(Convert.ToString(min1, 2));
             int sec2 = Convert.ToInt32(Convert.ToString(sec1, 2));
-            Console.WriteLine($"The Curent Time in Binary is : {ora2}:{min2}:{sec2}\n");
+            Console.WriteLine($"The Curent Time in Base 2 is : {ora2}:{min2}:{sec2}\n");
 
             // Tabelul Binar
             // Vom folosi X pentru aprins si O pentru stins
